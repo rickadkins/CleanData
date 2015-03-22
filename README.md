@@ -2,7 +2,7 @@
 
 Make sure the files are in the working directory
 
-load in teh X_train.txt and X_Test.txt files
+load in the X_train.txt and X_Test.txt files
 combine into one data.frame called combine.df
 
 Add a column to identify the source for the data.
